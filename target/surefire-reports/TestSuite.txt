@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 45.962 s <<< FAILURE! - in TestSuite
+logintowordpress(com.wordpress.tests.TestSeleniumChrome)  Time elapsed: 7.45 s  <<< FAILURE!
+java.lang.AssertionError: expected [http://demosite.center/wordpress/wp-login.php] but found [http://demosite.center/wordpress/wp-admin/]
+	at com.wordpress.tests.TestSeleniumChrome.logintowordpress(TestSeleniumChrome.java:35)
+
+logintowordpress(com.wordpress.tests.TestSeleniumChrome)  Time elapsed: 7.632 s  <<< FAILURE!
+java.lang.AssertionError: expected [http://demosite.center/wordpress/wp-login.php] but found [http://demosite.center/wordpress/wp-admin/]
+	at com.wordpress.tests.TestSeleniumChrome.logintowordpress(TestSeleniumChrome.java:35)
+
+logintowordpress(com.wordpress.tests.TestSeleniumChrome)  Time elapsed: 7.392 s  <<< FAILURE!
+java.lang.AssertionError: expected [http://demosite.center/wordpress/wp-login.php] but found [http://demosite.center/wordpress/wp-admin/]
+	at com.wordpress.tests.TestSeleniumChrome.logintowordpress(TestSeleniumChrome.java:35)
+

@@ -1,0 +1,9 @@
+chromeDriver=C:\\Users\\jenso\\eclipse-workspace\\learning_java\\src\\test\\resources\\binaries\\chromedriver.exe
+
+URL=http://demosite.center/wordpress/wp-login.php
+
+ActualURL=http://demosite.center/wordpress/wp-admin/
+
+ExcelDataFile=C:\\Users\\jenso\\eclipse-workspace\\learning_java\\src\\test\\resources\\binaries\\XLSX\\TestData1.xlsx
+
+EdgeDriver=C:\\Users\\jenso\\eclipse-workspace\\learning_java\\src\\test\\resources\\binaries\\msedgedriver.exe
